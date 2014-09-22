@@ -1,0 +1,25 @@
+
+@import url('../fonts/Helvetica-Regular.css');
+@font-face {
+    font-family: 'HelveticaNeueCondensedBold';
+    src: url('../fonts/helveticaneue-condensedbold.eot');
+    src: url('../fonts/helveticaneue-condensedbold.eot') format('embedded-opentype'),
+         url('../fonts/helveticaneue-condensedbold.woff2') format('woff2'),
+         url('../fonts/helveticaneue-condensedbold.woff') format('woff'),
+         url('../fonts/helveticaneue-condensedbold.ttf') format('truetype'),
+         url('../fonts/helveticaneue-condensedbold.svg#HelveticaNeueCondensedBold') format('svg');
+}
+
+
+@font-face {
+	font-family:'Helvetica-Regular';
+	src: url('../fonts/Helvetica_latin+latin-ext_gdi.eot');
+	src: url('../fonts/Helvetica_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Helvetica_latin+latin-ext_gdi.woff') format('woff'),
+		  url('../fonts/Helvetica_latin+latin-ext_gdi.ttf') format('truetype'),
+		  url('../fonts/Helvetica_latin+latin-ext_gdi.svg#Helvetica-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-2215;
+}
