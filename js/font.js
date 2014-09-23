@@ -1,7 +1,7 @@
 // JavaScript Document
 
 WebFontConfig = {
-    google: { families: [ 'Oswald::latin' ] }
+    google: { families: [ 'Open+Sans::latin', 'Oswald::latin' ] }
   };
   (function() {
     var wf = document.createElement('script');
